@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.icons{
+    font-size: 40px;
+    padding: 20px;
+    text-align: center;
+}
+
+
+span{
+    margin: 20px;
+}
+
+
+.card-bs{
+    width: 50%;
+    margin: 20px;
+}
+
+.btn{
+    margin: 0px 10px;
+}
+
+
+.stateClass{
+    width: 50%;
+    margin: auto auto;
+    text-align: center;
+}
+
+
+.cardHeader{
+    font-size: 30px;
+    text-align: center;
+}
